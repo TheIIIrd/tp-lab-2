@@ -1,4 +1,4 @@
-# tp-lab02
+# tp-lab-2
 Studying version control systems using Git as an example.
 
 ## Tutorial
